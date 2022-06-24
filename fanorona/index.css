@@ -1,0 +1,19 @@
+canvas{
+    position: fixed;
+    border-radius: 6px;
+    margin-top: 100px;
+    margin-left: 200px;
+    }
+body{
+    background:rgba(79, 93, 184,0.5)
+    }
+h1{
+    position:absolute;
+    right:100px;
+    top:200px;
+    font-family:cursive;
+    color:rgb(7, 80, 54);
+}
+h1 span{
+    color:brown;
+} 
